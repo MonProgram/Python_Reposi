@@ -37,7 +37,7 @@ def main():
             ver_cadastros (cadastros)
 
         elif opção == "3":
-            print("Obrigado por utilizar nosso system xD")
+            print("Volte sempre! Obrigado por utilizar nosso sistema xDD")
             break
             
         else:
