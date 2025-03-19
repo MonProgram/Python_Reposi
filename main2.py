@@ -13,7 +13,7 @@ def cadastrar_pessoa (cadastros):
     turma = input("sua turma:")
     curso = input("seu curso:")
     cadastros.append({"nome": nome, "idade": idade, "turma": turma, "curso": curso})
-    print("cadastro realizado com sucesso bruhhhh")
+    print("****cadastro realizado com sucesso bruhhhh****")
 
 def ver_cadastros (cadastros):
     if not cadastros:
